@@ -845,11 +845,7 @@ nav {
   }
 }
 
-@media (width > 1024px) {
-  .customer__card {
-    padding: 2rem;
-  }
-}
+
 
 
 
